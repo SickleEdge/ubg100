@@ -1,0 +1,376 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\ajax\libs\gsap\3.9.1\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\ubg100.github.io\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Downloaded Web Sites\ubg100.github.io\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700
+File Name: C:\Downloaded Web Sites\ubg100.github.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/css/all.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\css\all.css
+Content Type: text/css
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ubg100.github.io\releases\v5.10.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\bootstrap\4.1.3\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/
+File Name: C:\Downloaded Web Sites\ubg100.github.io\index.htm
+Content Type: text/html
+
+Uri: https://ubg100.github.io/assets/css/changelog.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\changelog.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/discord.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\discord.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/games.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\games.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/index.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\index.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/main.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\main.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/partners.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\partners.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/slider.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\slider.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/css/testimonial.css
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\css\testimonial.css
+Content Type: text/css
+
+Uri: https://ubg100.github.io/assets/img/bg.svg
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\img\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://ubg100.github.io/assets/img/discord/teamr0cket.gif
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\img\discord\teamr0cket.gif
+Content Type: image/gif
+
+Uri: https://ubg100.github.io/assets/img/socials/ubg100.png
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\img\socials\ubg100.png
+Content Type: image/png
+
+Uri: https://ubg100.github.io/assets/js/changelog/changelog.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\changelog\changelog.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/changelog/recentupd.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\changelog\recentupd.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/changelog/updatelog.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\changelog\updatelog.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/discord.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\discord.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/gads/gads.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\gads\gads.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/gads/ggads.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\gads\ggads.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/games/createfilters.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\games\createfilters.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/games/filters.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\games\filters.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/games/gamefilter.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\games\gamefilter.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/games/games.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\games\games.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/games/updategames.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\games\updategames.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/main.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/partners/partners.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\partners\partners.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/partners/updatepartners.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\partners\updatepartners.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/slider/slider.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\slider\slider.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/slider/slideritems.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\slider\slideritems.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/slider/updateslider.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\slider\updateslider.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/testimonials/testimonials.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\testimonials\testimonials.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/assets/js/testimonials/updatetests.js
+File Name: C:\Downloaded Web Sites\ubg100.github.io\assets\js\testimonials\updatetests.js
+Content Type: application/javascript
+
+Uri: https://ubg100.github.io/changelog.html
+File Name: C:\Downloaded Web Sites\ubg100.github.io\changelog.html
+Content Type: text/html
+
+Uri: https://ubg100.github.io/games.html
+File Name: C:\Downloaded Web Sites\ubg100.github.io\games.html
+Content Type: text/html
+
